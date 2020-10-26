@@ -52,5 +52,31 @@ Para generar un salto de linea o parrafo solo hay que agregar un salto de linea.
 
 [Daring Fireball](https://daringfireball.net/projects/markdown/ "WebSite MarkDown")
 
+# Citas
+
+>Esto es una cita.
+
+# Linea divisoria
+
+___
+
 # Lineas de codigo
+
+``` c++
+#include iostream
+using name space std
+```
+
+# Tablas
+
+|  columna 1| columna 2 | columna 3|
+|-----------|-----------|-----------|
+|Elemento 1 |Elemento 2 |Elemento 3 |
+|Elemento 1 |Elemento 2 |Elemento 3 |
+|Elemento 1 |Elemento 2 |Elemento 3 |
+|Elemento 1 |Elemento 2 |Elemento 3 |
+
+# Imagenes
+
+
 
