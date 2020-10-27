@@ -84,4 +84,8 @@ using name space std
 
 \*Esto es un texto en negritas*
 
+# funciones especiales para HitHub
 
+* [x] tarea 1
+* [ ] tarea 2
+* [ ] tarea 3
