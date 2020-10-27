@@ -86,6 +86,12 @@ using name space std
 
 # funciones especiales para HitHub
 
+## Lista de tareas
+
 * [x] tarea 1
 * [ ] tarea 2
 * [ ] tarea 3
+
+## emojis
+
+:smiley:
