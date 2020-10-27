@@ -78,5 +78,10 @@ using name space std
 
 # Imagenes
 
+![Mario Bros](img/mariobros.png "Mario Bros")
+
+# Caracter de escape en MarkDown
+
+\*Esto es un texto en negritas*
 
 
