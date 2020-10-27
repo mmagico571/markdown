@@ -96,6 +96,13 @@ using name space std
 
 :smiley:
 
+lista completa de emojis [gistfile1.md ](https://gist.github.com/rxaviers/7360908 "github  rxaviers/gist:7360908")
+
 ## Mencionar a otro usuario
 
 @ mmagico571@gmail.com
+
+# Mas informacion de Markdown para GitHub
+
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "GitHub de adam-p /
+markdown-here ")
