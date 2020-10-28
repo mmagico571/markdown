@@ -1,9 +1,25 @@
 # Curso de MarkDown
 
-# Titulares
+![MarkDown](img/markdown.png "Logo de markdown")
+
+* Es un lenguaje de marcado ligero.
+* Trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida usando texto plano.
+* Se distribuye bajo licencia BSD. 
+* Se creo en 2004 por John Gruber y Aaron Swartz.
+* Una gran cantidad de sitios emplean markdown para facilitar la discusion entre usuarios.
+
+ # 1. Titulares
 
 # Titular 1
+*Sintaxis.*
+```
+# Titular 1
+```
 ## Titular 2
+*Sintaxis*
+```
+## Titular 2
+```
 ### Titular 3
 #### Titular 4
 ##### Titular 5
