@@ -32,33 +32,56 @@ ___
 ```markdown
 #### Titular 4
 ```
-##### Titular 5
+##### 1.5 Titular 5
 *Sintaxis*
 ```markdown
 ##### Titular 5
 ```
+###### 1.6 Titular 6
+*Sintaxis*
+```markdown
 ###### Titular 6
+```
+___
+___
+## **2 Texto**
 
-# Texto
+
+Para generar un salto de linea o parrafo solo hay que agregar un salto de linea.
+
+Parrafo 1
+
+Parrafo 2
+
+*sintaxis*
+```markdown
 parrafo 1
 
 parrafo 2
+```
 
 *texto en cursivas*
 
+*Sintaxis*
+```markdown
+*texto en cursivas*
+```
 **texto en negritas**
 
 ~~texto tachado~~
 
 salto de linea
 
-# Salto de linea
+___
+___
 
-Para generar un salto de linea o parrafo solo hay que agregar un salto de linea.
-
-# Comentarios
+## **3 Comentarios**
 
 <!--Estos es un comentario-->
+*sintaxis*
+```markdown
+<!--comentarios-->
+```
 
 # listas
 
