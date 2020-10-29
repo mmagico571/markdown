@@ -1,4 +1,5 @@
-# Curso de MarkDown
+# **Curso MarkDown**
+___
 
 ![MarkDown](img/markdown.png "Logo de markdown")
 
@@ -7,22 +8,35 @@
 * Se distribuye bajo licencia BSD. 
 * Se creo en 2004 por John Gruber y Aaron Swartz.
 * Una gran cantidad de sitios emplean markdown para facilitar la discusion entre usuarios.
+___
+___
+ ## **1. Titulares**
 
- # 1. Titulares
-
-# Titular 1
+# 1.1 Titular 1
 *Sintaxis.*
-```
+``` markdown
 # Titular 1
 ```
-## Titular 2
+## 1.2 Titular 2
 *Sintaxis*
-```
+```markdown
 ## Titular 2
 ```
+### 1.3 Titular 3
+*Sintaxis*
+```markdown
 ### Titular 3
+```
+#### 1.4 Titular 4
+*Sintaxis*
+```markdown
 #### Titular 4
+```
 ##### Titular 5
+*Sintaxis*
+```markdown
+##### Titular 5
+```
 ###### Titular 6
 
 # Texto
