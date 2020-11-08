@@ -69,13 +69,13 @@ parrafo 2
 **texto en negritas**
 
 *Sintaxis*
-```
+```markdown
 **texto en negritas**
 ```
 ~~texto tachado~~
 
 *Sintaxis*
-```
+```markdown
 ~~texto tachado~~
 ```
 ___
@@ -99,8 +99,8 @@ ___
     1. Elemento 1.1
 2. Elemento 2
     1. Elemento 2.1
-    2. Elemento 2.1
-    3. Elemento 2.1
+    2. Elemento 2.2
+    3. Elemento 2.3
 3. Elemento 3
 4. Elemento 4
 
@@ -109,6 +109,11 @@ ___
 1. Elemento 1
     1. Elemento 1.1
 2. Elemento 2
+    1. Elemento 2.1
+    2. Elemento 2.2
+    3. Elemento 2.3
+3. Elemento 3
+4. Elemento 4
 ```
 
 ### Listas Desordenadas
