@@ -125,6 +125,17 @@ ___
     * SubElemento
 * Elemento 3
 * Elemento 4
+
+*Sintaxis*
+```markdown
+* Elemento 1
+    * SubElemento
+    * SubElemnto
+* Elemento 2
+    * SubElemento
+* Elemento 3
+* Elemento 4
+```
 ___
 ___
 
@@ -133,7 +144,7 @@ ___
 [Daring Fireball](https://daringfireball.net/projects/markdown/ "WebSite MarkDown")
 
 *Sintaxis*
-```
+```markdown
 [Daring Fireball](https://daringfireball.net/projects/markdown/ "WebSite MarkDown")
 ```
 ___
@@ -142,21 +153,37 @@ ___
 ## ***6 Citas***
 
 >Esto es una cita.
+
+*sintaxis*
+```
+>Esto es una cita
+```
 ___
 ___
 
-# 7 Linea divisoria
+## ***7 Linea divisoria***
 
 ___
+*Sintaxis*
+```markdown
+___
+```
+___
+___
 
-# 8 Lineas de codigo
+## ***8 Lineas de codigo***
 
 ``` c++
 #include iostream
 using name space std
 ```
+*Sintaxis*
+```markdown
+```
+___
+___
 
-# 9 Tablas
+## ***9 Tablas***
 
 |  columna 1| columna 2 | columna 3 |
 |-----------|-----------|-----------|
@@ -165,33 +192,42 @@ using name space std
 |Elemento 1 |Elemento 2 |Elemento 3 |
 |Elemento 1 |Elemento 2 |Elemento 3 |
 
-# 10 Imagenes
+___
+___
+
+## ***10 Imagenes***
 
 ![Mario Bros](img/mariobros.png "Mario Bros")
+___
+___
 
-# 11 Caracter de escape en MarkDown
+## ***11 Caracter de escape en MarkDown***
 
 \*Esto es un texto en negritas*
 
-# 12 Funciones especiales para HitHub
+___
+___
+## ***12 Funciones especiales para GitHub***
 
-## Lista de tareas
+### Lista de tareas
 
 * [x] tarea 1
 * [ ] tarea 2
 * [ ] tarea 3
 
-## Emojis
+### Emojis
 
 :smiley:
 
 lista completa de emojis [gistfile1.md ](https://gist.github.com/rxaviers/7360908 "github  rxaviers/gist:7360908")
 
-## Mencionar a otro usuario
+### Mencionar a otro usuario
 
 @ mmagico571@gmail.com
+___
+___
 
-# 13 Mas informacion de Markdown para GitHub
+## ***13 Mas informacion de Markdown para GitHub***
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "GitHub de adam-p /
 markdown-here ")
