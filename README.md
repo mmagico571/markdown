@@ -10,7 +10,7 @@ ___
 * Una gran cantidad de sitios emplean markdown para facilitar la discusion entre usuarios.
 ___
 ___
- ## **1. Titulares**
+ ## ***1. Titulares***
 
 # 1.1 Titular 1
 *Sintaxis.*
@@ -44,7 +44,7 @@ ___
 ```
 ___
 ___
-## **2 Texto**
+## ***2 Texto***
 
 
 Para generar un salto de linea o parrafo solo hay que agregar un salto de linea.
@@ -68,78 +68,107 @@ parrafo 2
 ```
 **texto en negritas**
 
+*Sintaxis*
+```
+**texto en negritas**
+```
 ~~texto tachado~~
 
-salto de linea
-
+*Sintaxis*
+```
+~~texto tachado~~
+```
 ___
 ___
 
-## **3 Comentarios**
+## ***3 Comentarios***
 
 <!--Estos es un comentario-->
 *sintaxis*
 ```markdown
 <!--comentarios-->
 ```
+___
+___
 
-# listas
+## ***4 listas***
 
-## Listas Ordenadas
+### Listas Ordenadas
 
 1. Elemento 1
     1. Elemento 1.1
 2. Elemento 2
     1. Elemento 2.1
+    2. Elemento 2.1
+    3. Elemento 2.1
 3. Elemento 3
 4. Elemento 4
 
-## Listas Desordenadas
+*Sintaxis*
+```markdown
+1. Elemento 1
+    1. Elemento 1.1
+2. Elemento 2
+```
+
+### Listas Desordenadas
 
 * Elemento 1
     * SubElemento
     * SubElemento 
 * Elemento 2
+    * SubElemento
 * Elemento 3
 * Elemento 4
+___
+___
 
-# Enlases
+## ***5 Enlases***
 
 [Daring Fireball](https://daringfireball.net/projects/markdown/ "WebSite MarkDown")
 
-# Citas
+*Sintaxis*
+```
+[Daring Fireball](https://daringfireball.net/projects/markdown/ "WebSite MarkDown")
+```
+___
+___
+
+## ***6 Citas***
 
 >Esto es una cita.
+___
+___
 
-# Linea divisoria
+# 7 Linea divisoria
 
 ___
 
-# Lineas de codigo
+# 8 Lineas de codigo
 
 ``` c++
 #include iostream
 using name space std
 ```
 
-# Tablas
+# 9 Tablas
 
-|  columna 1| columna 2 | columna 3|
+|  columna 1| columna 2 | columna 3 |
 |-----------|-----------|-----------|
 |Elemento 1 |Elemento 2 |Elemento 3 |
 |Elemento 1 |Elemento 2 |Elemento 3 |
 |Elemento 1 |Elemento 2 |Elemento 3 |
 |Elemento 1 |Elemento 2 |Elemento 3 |
 
-# Imagenes
+# 10 Imagenes
 
 ![Mario Bros](img/mariobros.png "Mario Bros")
 
-# Caracter de escape en MarkDown
+# 11 Caracter de escape en MarkDown
 
 \*Esto es un texto en negritas*
 
-# funciones especiales para HitHub
+# 12 Funciones especiales para HitHub
 
 ## Lista de tareas
 
@@ -157,7 +186,7 @@ lista completa de emojis [gistfile1.md ](https://gist.github.com/rxaviers/736090
 
 @ mmagico571@gmail.com
 
-# Mas informacion de Markdown para GitHub
+# 13 Mas informacion de Markdown para GitHub
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "GitHub de adam-p /
 markdown-here ")
