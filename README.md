@@ -192,12 +192,27 @@ ___
 |Elemento 1 |Elemento 2 |Elemento 3 |
 |Elemento 1 |Elemento 2 |Elemento 3 |
 
+*Sintaxis*
+```markdown
+|  columna 1| columna 2 | columna 3 |
+|-----------|-----------|-----------|
+|Elemento 1 |Elemento 2 |Elemento 3 |
+|Elemento 1 |Elemento 2 |Elemento 3 |
+|Elemento 1 |Elemento 2 |Elemento 3 |
+|Elemento 1 |Elemento 2 |Elemento 3 |
+```
+
 ___
 ___
 
 ## ***10 Imagenes***
 
 ![Mario Bros](img/mariobros.png "Mario Bros")
+
+*Sintaxis*
+```markdown
+![Nombre](ubicacion o url "Etiqueta)
+```
 ___
 ___
 
@@ -205,6 +220,10 @@ ___
 
 \*Esto es un texto en negritas*
 
+*Sintaxis*
+```markdown
+\*Esto es un texto en negritas*
+```
 ___
 ___
 ## ***12 Funciones especiales para GitHub***
@@ -215,15 +234,32 @@ ___
 * [ ] tarea 2
 * [ ] tarea 3
 
+*Sintaxis*
+```markdown
+* [x] tarea 1
+* [ ] tarea 2
+* [ ] tarea 3
+```
+
 ### Emojis
 
 :smiley:
 
+*Sintaxis*
+```markdown
+:smiley:
+```
 lista completa de emojis [gistfile1.md ](https://gist.github.com/rxaviers/7360908 "github  rxaviers/gist:7360908")
+
 
 ### Mencionar a otro usuario
 
 @ mmagico571@gmail.com
+
+*Sinstaxis*
+```markdown
+@ mmagico571@gmail.com
+```
 ___
 ___
 
