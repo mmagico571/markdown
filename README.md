@@ -211,7 +211,7 @@ ___
 
 *Sintaxis*
 ```markdown
-![Nombre](ubicacion o url "Etiqueta)
+![Nombre](ubicacion o url "Etiqueta")
 ```
 ___
 ___
